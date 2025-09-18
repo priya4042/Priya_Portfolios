@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-module.exports = {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
-=======
+
 # Priya_Portfolios
 🌟 Priya Kumari's Personal Portfolio | React + Vite + TailwindCSS | Full Stack .NET Developer
 ## 🚀 Features
